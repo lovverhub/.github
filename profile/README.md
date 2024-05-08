@@ -77,8 +77,8 @@ All the best for last.
 
 
 [social-ig-link]: https://instagram.com/fifi.xvx
-[social-ig-shield]: https://img.shields.io/badge/@fifi.xvx-black?colorA=2b2d42&colorB=ff99c8&style=for-the-badge&logo=instagram
+[social-ig-shield]: https://img.shields.io/badge/fifix.xvx-⁞-e84855?labelColor=black&style=for-the-badge&logo=instagram
 [social-x-link]: https://x.com/fifixw
-[social-x-shield]: https://img.shields.io/badge/@fifixw-black?colorA=2b2d42&colorB=fcf6bd&style=for-the-badge&logo=x
+[social-x-shield]: https://img.shields.io/badge/fifixw-⁞-f8f9fa?labelColor=black&style=for-the-badge&logo=x
 [sponsor-link]: https://opencollective.com/lovverhub
-[sponsor-shield]: https://img.shields.io/badge/Sponsor%20LovverHub-black?colorA=2b2d42&colorB=d0f4de&style=for-the-badge&logo=opencollective
+[sponsor-shield]: https://img.shields.io/badge/Sponsors-390099?labelColor=black&style=for-the-badge&logo=opencollective
