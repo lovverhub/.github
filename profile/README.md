@@ -32,7 +32,7 @@
 >
 > It is important to note that these projects are still in **development** and may not be publicly visible yet.
 
-<img src="https://github.com/lovverhub/.github/blob/main/assets/Pinned_Repos.png" />
+<img src="https://github.com/lovverhub/.github/blob/master/assets/Pinned_Repos.png" />
 
 # ✨ Top Repositories
 
